@@ -37,7 +37,7 @@
     <nexus-staging-maven-plugin.version>1.6.13</nexus-staging-maven-plugin.version>
     <jboss-logging.version>3.5.0.Final</jboss-logging.version>
     <cdi-api.version>4.0.1</cdi-api.version>
-    <mutiny.version>2.1.0</mutiny.version>
+    <mutiny.version>2.6.0</mutiny.version>
   </properties>
   <dependencies>
     <dependency>
